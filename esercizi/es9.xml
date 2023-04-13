@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<text>
+    <body>
+
+      <p>All'inizio del <date>1905</date>, <persName><forename>Albert</forename> <surname>Einstein</surname></persName> era un fisico <age>26enne</age>, dalle brillanti potenzialità ma praticamente sconosciuto, che lavorava 
+      sei giorni su sette all'ufficio brevetti svizzero di <placeName>Berna</placeName> e trascorreva il poco tempo libero in laboratorio o in 
+      discussioni scientifiche con gli amici.</p>
+
+      <p>In pochi avrebbero scommesso sul fatto che quello sarebbe divenuto l'anno di svolta non solo per la sua carriera,
+      ma per la storia della fisica. In quei <num>12</num> mesi lo scienziato avrebbe pubblicato <num>quattro</num> articoli accademici rivoluzionari.</p>
+
+        <list>
+            <label>1. FOTONI.</label> 
+            <item><p>Nel primo lavoro, pubblicato a marzo, <surname>Einstein</surname> sosteneva che la luce, che fino ad allora si pensava diffondersi in onde, 
+            fosse costituita di un numero finito di quanti di energia (in seguito denominati fotoni) che si muovono nello <name>Spazio</name>. 
+            <surname>Einstein</surname> portava questa teoria per spiegare l'effetto fotoelettrico, il fenomeno per cui una superficie metallica, 
+            colpita da una radiazione elettromagnetica, emette elettroni. La sua ipotesi - che gli valse il <name>Nobel</name> per la <name>Fisica</name> nel <date>1921</date> - 
+            sarebbe divenuta, <date><num>20</num> anni</date> dopo, una colonna portante del dualismo onda-particella della luce.</p></item>
+
+            <label>2. ATOMI.</label> 
+            <item><p>A maggio fu la volta di un articolo sul moto browniano (il moto disordinato delle particelle presenti nei fluidi): 
+            Einstein partiva dall'osservazione di questo fenomeno per dimostrare che gli atomi esistono realmente,
+            un punto su cui fino ad allora si era discusso molto.</p></item>
+
+            <label>3. SPAZIOTEMPO.</label>
+            <item><p>Giugno fu il mese della Teoria della <name>Relatività</name> ristretta, in base alla quale la velocità dell'osservatore 
+            influenza anche la percezione del prima e del dopo, e quindi lo scorrere del tempo non è universale: la luce rimane costante, 
+            spazio e tempo divengono un'entità fluida relativa all'osservatore.</p></item>
+
+            <label>4. E=MC²</label> 
+            <item><p>La teoria sarebbe stata completata con il quarto articolo, pubblicato nel settembre <date>1905</date>, che enunciava l'equazione più 
+            famosa di sempre, E=mc²: esiste una relazione fissa tra energia e massa; la prima equivale alla seconda moltiplicata per il quadrato 
+            della velocità della luce.</p></item>
+        </list>
+      <p>Ogni normale scienziato si accontenterebbe di raggiungere anche uno solo di questi risultati nell'intera carriera. Per <surname>Einstein</surname>, invece, era solo l'inizio.</p>
+ 
+    </body>
+
+    <body>
+
+        <div>
+            <p>Cari saluti da <persName><forename>Fabio</forename><surname>Grofogli</surname></persName>!!</p>
+            <p><retrace rend="underline">Forza Lazio!!!</retrace></p>
+        </div>
+
+        <div>
+            <p><seg rend="underline"><choice><abbr>Sig<am>.</am></abbr><expan>Sig<ex>nor</ex></expan></choice></seg><add place="above" rend="underline">ino</add> <persName><forename>Francesco</forename><surname>Ferri</surname></persName></p>
+            <p>Via <name>Claudia</name> 61</p>
+            <p><placeName>Oriolo Romano 01010</placeName></p>
+            <p><choice><abbr>Prov<am>.</am></abbr><expan>Prov<ex>incia</ex></expan></choice> <placeName>Viterbo</placeName></p>
+        </div>
+    </body>
+
+</text>

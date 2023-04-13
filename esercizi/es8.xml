@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<text>
+    <body>
+
+        <list type="simple">
+            <head>Lista della spesa:</head>
+            <item>pane;</item>
+            <item>frutta <term>BIO</term>;</item>
+            <item>verdura;</item>
+            <item>uova;</item>
+            <item>piatti.</item>
+        </list>
+
+    </body>
+</text>
